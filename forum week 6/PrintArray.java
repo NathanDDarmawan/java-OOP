@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Main
+public class PrintArray
 {
 	public static void main(String[] args) {
 	    Scanner reader = new Scanner(System.in);
